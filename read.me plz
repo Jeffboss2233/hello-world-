@@ -4,3 +4,6 @@ println("hello, world")
 
 print (hello world )
 
+fun main(){
+println(whats up the sky)
+}
